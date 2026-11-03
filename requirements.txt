@@ -1,0 +1,16 @@
+gradio>=6.0
+langgraph>=1.2
+langgraph-checkpoint-sqlite>=3.1
+langchain>=1.4
+langchain-core>=1.6
+langchain-google-genai>=4.4
+langchain-ollama>=1.1
+langchain-openai>=1.6
+ddgs>=9.16
+tavily-python>=0.8
+python-dotenv>=1.2
+beautifulsoup4>=4.15
+httpx>=0.28
+requests>=2.34
+markdown>=3.10
+pydantic>=2.13

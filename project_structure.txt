@@ -1,0 +1,23 @@
+research_agent_gradio/
+├── app.py
+├── main.py
+├── .env.example
+├── src/
+│   ├── agents.py
+│   ├── callbacks.py
+│   ├── config.py
+│   ├── exceptions.py
+│   ├── graph.py
+│   ├── llm_tracker.py
+│   ├── state.py
+│   ├── prompts/
+│   └── utils/
+├── tests/
+├── assets/
+├── docs/
+├── requirements.txt
+├── pyproject.toml
+├── README.md
+└── LICENSE
+
+Generated reports are written to outputs/ at runtime. Environment secrets belong in a local .env file and are not included in this project copy.
